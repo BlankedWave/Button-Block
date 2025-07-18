@@ -159,9 +159,9 @@ class App extends React.Component {
       React.createElement("button", {
         className: "trap-button",
         onClick: this.handleButtonClicked },
-      gameOver && "Nice one",
-      cursorGrabbed && "Gotcha!",
-      !gameOver && !cursorGrabbed && "Button!"), /*#__PURE__*/
+      gameOver && "Bagus",
+      cursorGrabbed && "Tak dapat!",
+      !gameOver && !cursorGrabbed && "Butang!"), /*#__PURE__*/
 
 
       React.createElement("div", { className: "grab-zone-wrapper" }, /*#__PURE__*/
