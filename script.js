@@ -145,9 +145,9 @@ class App extends React.Component {
       React.createElement("div", { className: appClass, style: screenStyle }, /*#__PURE__*/
       React.createElement("section", { className: "container" }, /*#__PURE__*/
       React.createElement("h1", null, "Hello!"), /*#__PURE__*/
-      React.createElement("h2", null, "Welcome to the internet."), /*#__PURE__*/
-      React.createElement("p", null, "This is a classic website, no traps or weird stuff!"), /*#__PURE__*/
-      React.createElement("p", null, "Feel free to browse, relax and, I don't know, click the button down there? Might as well, right?"), /*#__PURE__*/
+      React.createElement("h2", null, "Selamat datang ke internet."), /*#__PURE__*/
+      React.createElement("p", null, "Ni laman web klasik, takde perangkap atau benda pelik!"), /*#__PURE__*/
+      React.createElement("p", null, "Relax je, boleh scroll, lepak, dan, entah, tekan je butang kat bawah tu? Tak salah pun, kan?"), /*#__PURE__*/
 
       React.createElement("button", {
         className: "debug-button",
